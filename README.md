@@ -13,9 +13,10 @@ Getting Started- install opencv and numpy on use it
 Prerequisites- opencv
 
 Demo
-![image](https://github.com/imnexerio/UAS_software/assets/61933944/d2c6673c-cf08-4be5-9e03-48960eb9b3d5)
 
-![image](https://github.com/imnexerio/UAS_software/assets/61933944/1ea22a7a-2a24-4b99-a39d-e28c46515bb5)
+![Screenshot 2023-08-22 042539](https://github.com/imnexerio/UAS_software/assets/61933944/6ca14c69-7971-4695-a3d7-92d49036c065)
+
+![Screenshot 2023-08-22 042401](https://github.com/imnexerio/UAS_software/assets/61933944/e48f75e0-fe0b-40b7-8fd3-f4e72ceb78e7)
 
 
 Author- Santosh Prajapati
